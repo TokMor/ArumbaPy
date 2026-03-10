@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-##Describe the error
+## Describe the error
 A clear and concise description of what the error in the square is.
 
-##Location
+## Location
 Alt+Right click to get the map coordinates of the square that has an error
 
-##Screenshots
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
 ##Recommended fix
